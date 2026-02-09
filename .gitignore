@@ -24,7 +24,7 @@ dist-ssr
 *.sw?
 
 # Environnement
-src/.env
+.env
 
 
 # Dependance
