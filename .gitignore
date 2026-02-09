@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environnement
+.env
+
+# Dependance
+node_modules/
