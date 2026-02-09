@@ -24,7 +24,8 @@ dist-ssr
 *.sw?
 
 # Environnement
-.env
+src/.env
+
 
 # Dependance
 node_modules/
